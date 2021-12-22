@@ -1,16 +1,16 @@
 const textConfig = {
     text1: "He luu Hằng!",
-    text2: "Có điều này muốn hỏi Hằng phải trả lời thật lòng nhaaa.",
-    text3: "Nếu Hằng pùn thì hãy nghĩ tới a nhóe._.",
+    text2: "Có điều này ...",
+    text3: "Nếu Hằng pùn thì hãy nghĩ tới a nhóe._. hahaha",
     text4: "HaHaHa",
     text5: "Khum",
     text6: "Ulatroi :))",
-    text7: "Nhắn nhủ a cái gì thì viết xuống đây điii naoo :vvvv",
+    text7: "Nếu có 1000 điều ước em ước gìii ạ  :vvvv",
     text8: "Gửi đi ",
     text9: "Em co mot sieu nang luc , nham mat lai la se thay anh :v",
     text10: "Ahehe anh doc het rui nha",
     text11:
-      "Anh cảm ưn , e phải lunn iu đời để ngày càng xink gai nhoa",
+      "Anh cảm ưn , e phải lunn lun iu đời để ngày càng xink gai nhoa hehehe",
     text12: "Hihihi",
   };
   
